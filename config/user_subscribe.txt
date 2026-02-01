@@ -4,30 +4,11 @@
 #https://ghgo.xyz/raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 #https://live.zbds.top/tv/iptv6.txt
 https://live.zbds.top/tv/iptv4.txt
-#https://live.fanmingming.com/tv/m3u/ipv6.m3u
-https://ghgo.xyz/raw.githubusercontent.com/joevess/IPTV/main/home.m3u8
-https://aktv.top/live.txt
-http://175.178.251.183:6689/live.txt
-https://ghgo.xyz/raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
-https://m3u.ibert.me/txt/fmml_dv6.txt
-https://m3u.ibert.me/txt/o_cn.txt
-https://m3u.ibert.me/txt/j_iptv.txt
-https://ghgo.xyz/raw.githubusercontent.com/xzw832/cmys/main/S_CCTV.txt
-https://ghgo.xyz/raw.githubusercontent.com/xzw832/cmys/main/S_weishi.txt
-https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
-https://ghgo.xyz/raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
-https://ghgo.xyz/raw.githubusercontent.com/yuanzl77/IPTV/master/live.txt
 #                    github自己添加的
 #https://github.com/mingxing0769/iptv
 https://raw.githubusercontent.com/mingxing0769/iptv/refs/heads/main/out/MergedCleanPlaylist_no_tvg_id.m3u8
 #https://github.com/vbskycn/iptv?tab=readme-ov-file
 https://live.zbds.top/tv/iptv4.m3u
-#https://github.com/maccmsapp/iptv
-https://github.com/maccmsapp/iptv/blob/main/iptv.m3u
-#https://github.com/hujingguang/ChinaIPTV
-https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8
-#https://github.com/alantang1977/IPTV_SuperB
-https://github.com/alantang1977/IPTV_SuperB/blob/main/output/live_ipv4.m3u
 
 
 
