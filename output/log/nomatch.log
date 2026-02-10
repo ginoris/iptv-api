@@ -1,8 +1,9 @@
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 TNTV (1080p),https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+Spectrum SportsNet LA,https://tvpass.org/live/spectrum-sportsnet-la/sd
+Sportsnet (East),https://tvpass.org/live/sportsnet-east/sd
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-ABC News (720p),https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
 ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
@@ -33,9 +34,6 @@ ESPN U (720p),https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 SportsNet New York (540p),https://fl1.moveonjoy.com/SNY/index.m3u8
 TSN1 (1080p) [Not 24/7],https://tvpass.org/live/tsn1/hd
 TSN2 (1080p) [Not 24/7],https://tvpass.org/live/tsn2/hd
-TSN3 (1080p) [Not 24/7],https://tvpass.org/live/tsn3/hd
-TSN4 (720p) [Not 24/7],https://tvpass.org/live/tsn4/hd
-TSN5 (1080p) [Not 24/7],https://tvpass.org/live/tsn5/hd
 BBC News Pashto (720p),https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
 Fox Sports 1,https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 Fox Sports 2 (360p) [Not 24/7],https://tvpass.org/live/FoxSports2/sd
