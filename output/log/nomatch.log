@@ -1,9 +1,35 @@
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 TNTV (1080p),https://tntv-samsung-fr.amagi.tv/playlist.m3u8
+TNT Kids (288p),https://restreamer1.tnt.ba/hls/tntkids.m3u8
+BBC News North America HD,https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+ESPN,https://tvpass.org/live/ESPN/sd
+ESPN Deportes,https://tvpass.org/live/espn-deportes/sd
+ESPN News,https://tvpass.org/live/ESPNews/sd
+ESPN U,https://tvpass.org/live/ESPNU/sd
+ESPN2,https://tvpass.org/live/ESPN2/sd
+Fox News,https://tvpass.org/live/FoxNewsChannel/sd
+Fox Sports 1,https://tvpass.org/live/FoxSports1/sd
+Fox Sports 1,https://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+Fox Sports 2,https://tvpass.org/live/FoxSports2/sd
+SNY Sportsnet New York Comcast,https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
 Spectrum SportsNet LA,https://tvpass.org/live/spectrum-sportsnet-la/sd
+Spectrum Sportsnet Lakers,https://tvpass.org/live/spectrum-sportsnet/sd
 Sportsnet (East),https://tvpass.org/live/sportsnet-east/sd
+Sportsnet 360,https://tvpass.org/live/sportsnet-360/sd
+Sportsnet One,https://tvpass.org/live/sportsnet-one/sd
+Sportsnet Ontario,https://tvpass.org/live/sportsnet-ontario/sd
+Sportsnet Pacific,https://tvpass.org/live/sportsnet-pacific/sd
+Sportsnet Pittsburgh,https://tvpass.org/live/sportsnet-pittsburgh/sd
+Sportsnet West,https://tvpass.org/live/sportsnet-west/sd
+TNT Eastern Feed,https://tvpass.org/live/TNTEast/sd
+TSN1,https://tvpass.org/live/tsn1/sd
+TSN2,https://tvpass.org/live/tsn2/sd
+TSN3,https://tvpass.org/live/tsn3/sd
+TSN4,https://tvpass.org/live/tsn4/sd
+TSN5,https://tvpass.org/live/tsn5/sd
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+ABC News (720p),https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
 ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
@@ -14,8 +40,10 @@ ABC News Live 6 (720p),https://abcnews-streams.akamaized.net/hls/live/2023565/ab
 ABC News Live 7 (720p),https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8
 ABC News Live 8 (720p),https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8
 ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8
+BBC News (1080p) [Geo-blocked],https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 BBC News Asia Pacific (1080p),https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 BBC News Europe,https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+BBC News North America,https://fl31.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 Fox News Channel (720p),#EXTVLCOPT:http-referrer=https://www.newslive.com/
@@ -28,15 +56,22 @@ Sky News Arabia Vertical (1080p),https://live-stream.skynewsarabia.com/c-vertica
 Sky News Extra 1 (540p),https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 Sky News Extra 2 (540p) [Not 24/7],https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 Sky News Extra 3 (1080p),https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-ESPNews (720p),https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
+ESPNews (720p),https://fl31.moveonjoy.com/ESPN_NEWS/index.m3u8
+BeIN SPORTS XTRA (1080p) [Geo-blocked],https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked],https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-ESPN U (720p),https://fl1.moveonjoy.com/ESPN_U/index.m3u8
-SportsNet New York (540p),https://fl1.moveonjoy.com/SNY/index.m3u8
+ESPN Deportes (360p),https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+ESPN U (720p),https://fl31.moveonjoy.com/ESPN_U/index.m3u8
+SportsNet New York (540p),https://fl2.moveonjoy.com/SNY/index.m3u8
+TSN The Ocho,https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 TSN1 (1080p) [Not 24/7],https://tvpass.org/live/tsn1/hd
 TSN2 (1080p) [Not 24/7],https://tvpass.org/live/tsn2/hd
+TSN3 (1080p) [Not 24/7],https://tvpass.org/live/tsn3/hd
+TSN4 (720p) [Not 24/7],https://tvpass.org/live/tsn4/hd
+TSN5 (1080p) [Not 24/7],https://tvpass.org/live/tsn5/hd
 BBC News Pashto (720p),https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
-Fox Sports 1,https://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-Fox Sports 2 (360p) [Not 24/7],https://tvpass.org/live/FoxSports2/sd
+FOX Sports,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=50cbf169-27f9-4fe6-9459-d10036223805
+Fox Sports (720p),https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 Fox Sports 2 (720p) [Not 24/7],https://tvpass.org/live/FoxSports2/hd
 FOX Sports [Geo-blocked],https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+Red CCTV (480p),https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 Sky News Weather (720p),https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
