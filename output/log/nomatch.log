@@ -43,7 +43,7 @@ ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/ab
 BBC News (1080p) [Geo-blocked],https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
 BBC News Asia Pacific (1080p),https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 BBC News Europe,https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
-BBC News North America,https://fl31.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
+BBC News North America,https://fl2.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 Fox News Channel (720p),#EXTVLCOPT:http-referrer=https://www.newslive.com/
@@ -60,8 +60,8 @@ ESPNews (720p),https://fl31.moveonjoy.com/ESPN_NEWS/index.m3u8
 BeIN SPORTS XTRA (1080p) [Geo-blocked],https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked],https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 ESPN Deportes (360p),https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
-ESPN U (720p),https://fl31.moveonjoy.com/ESPN_U/index.m3u8
-SportsNet New York (540p),https://fl2.moveonjoy.com/SNY/index.m3u8
+ESPN U (720p),http://fl41.moveonjoy.com/ESPN_U/index.m3u8
+SportsNet New York (540p),http://212.102.60.231/SNY/index.m3u8
 TSN The Ocho,https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 TSN1 (1080p) [Not 24/7],https://tvpass.org/live/tsn1/hd
 TSN2 (1080p) [Not 24/7],https://tvpass.org/live/tsn2/hd
