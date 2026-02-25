@@ -9,7 +9,7 @@ Sportsnet 360 FHD,https://a1xs.vip/6000014
 Sportsnet One FHD,https://a1xs.vip/6000012
 Sportsnet Ontario FHD,https://a1xs.vip/6000011
 Sportsnet World FHD,https://a1xs.vip/6000013
-TF1 HD (720p),https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
+TF1 HD (720p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
 Sky Sport PL NZ,https://a1xs.vip/700008
 DE: Sky Sport Bundesliga FHD,https://a1xs.vip/120002
 DE: Sky Sport Premier League FHD,https://a1xs.vip/120004
@@ -59,9 +59,8 @@ TSN4,https://tvpass.org/live/tsn4/sd
 TSN4,https://a1xs.vip/6000004
 TSN5,https://tvpass.org/live/tsn5/sd
 TSN5,https://a1xs.vip/6000005
-TF1 Series Films (1080p),https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+TF1 Series Films (1080p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-ABC News (720p),https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
 ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
@@ -73,8 +72,8 @@ ABC News Live 7 (720p),https://abcnews-streams.akamaized.net/hls/live/2023566/ab
 ABC News Live 8 (720p),https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8
 ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8
 BBC News (1080p) [Geo-blocked],https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
-BBC News Asia Pacific (1080p),https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
-BBC News Europe,https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+BBC News Asia Pacific (1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+BBC News Europe [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 Fox News Channel (720p),#EXTVLCOPT:http-referrer=https://www.newslive.com/
@@ -96,6 +95,7 @@ SKY Sport 6 NZ,https://a1xs.vip/700036
 SKY Sport 7 NZ,https://a1xs.vip/700037
 BeIN SPORTS XTRA (1080p) [Geo-blocked],https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked],https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
+ESPN 8: The Ocho,https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 ESPN Deportes (360p),https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 F1 Channel,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=64dd0ce3-1a0f-4d0c-8ee3-21d8032923bf
 F1 Channel (1080p) [Geo-blocked],https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
@@ -131,6 +131,7 @@ Fox Sports 2 (720p) [Not 24/7],https://tvpass.org/live/FoxSports2/hd
 FOX Sports [Geo-blocked],https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 Red CCTV (480p),https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 ABC News Live,https://a1xs.vip/300016
+ABC News Live,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3e02ac8a-2051-477d-aa8a-30fc6e75c82b
 TNT FHD,https://a1xs.vip/300001
 ESPN HD,https://a1xs.vip/40000011
 ESPN News HD,https://a1xs.vip/40000014
