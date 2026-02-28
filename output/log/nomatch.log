@@ -61,6 +61,7 @@ TSN5,https://tvpass.org/live/tsn5/sd
 TSN5,https://a1xs.vip/6000005
 TF1 Series Films (1080p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+ABC News Live (720p),https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
 ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
 ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
@@ -97,8 +98,8 @@ BeIN SPORTS XTRA (1080p) [Geo-blocked],https://amg01334-beinsportsllc-beinxtra-s
 BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked],https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
 ESPN 8: The Ocho,https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
 ESPN Deportes (360p),https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
-F1 Channel,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c69ee3d77d450008c80438/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=64dd0ce3-1a0f-4d0c-8ee3-21d8032923bf
 F1 Channel (1080p) [Geo-blocked],https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+Fox Sports en Espanol (720p),https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
 TSN The Ocho,https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 TSN1 (1080p) [Not 24/7],https://tvpass.org/live/tsn1/hd
 TSN2 (1080p) [Not 24/7],https://tvpass.org/live/tsn2/hd
@@ -125,13 +126,11 @@ TNT Sports 2 FHD,https://a1xs.vip/2000022
 TNT Sports 3 FHD,https://a1xs.vip/2000023
 TNT Sports 4 FHD,https://a1xs.vip/2000024
 BBC News Pashto (720p),https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
-FOX Sports,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=50cbf169-27f9-4fe6-9459-d10036223805
 Fox Sports (720p),https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 Fox Sports 2 (720p) [Not 24/7],https://tvpass.org/live/FoxSports2/hd
 FOX Sports [Geo-blocked],https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 Red CCTV (480p),https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
 ABC News Live,https://a1xs.vip/300016
-ABC News Live,https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6508be683a0d700008c534e4/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=3e02ac8a-2051-477d-aa8a-30fc6e75c82b
 TNT FHD,https://a1xs.vip/300001
 ESPN HD,https://a1xs.vip/40000011
 ESPN News HD,https://a1xs.vip/40000014
@@ -145,5 +144,6 @@ CCTV世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
 CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
 CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-CCTV风云足球,http://27.41.245.32:801/hls/906/index.m3u8
+CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
