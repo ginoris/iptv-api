@@ -61,7 +61,7 @@ TSN5,https://tvpass.org/live/tsn5/sd
 TSN5,https://a1xs.vip/6000005
 TF1 Series Films (1080p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
 ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-ABC News Live (720p),https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+ABC News Live (1080p) [Geo-blocked],https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
 ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
@@ -72,9 +72,9 @@ ABC News Live 6 (720p),https://abcnews-streams.akamaized.net/hls/live/2023565/ab
 ABC News Live 7 (720p),https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8
 ABC News Live 8 (720p),https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8
 ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8
-BBC News (1080p) [Geo-blocked],https://vs-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+BBC News (1080p),https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd
+BBC News (1080p) [Geo-blocked],https://pb-iiczlgfysam0q.akamaized.net/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
 BBC News Asia Pacific (1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
-BBC News Europe [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/bbcworld/browser-HLS8/bbcworld.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 Fox News Channel (720p),#EXTVLCOPT:http-referrer=https://www.newslive.com/
@@ -94,10 +94,10 @@ SKY Sport 4 NZ,https://a1xs.vip/700034
 SKY Sport 5 NZ,https://a1xs.vip/700035
 SKY Sport 6 NZ,https://a1xs.vip/700036
 SKY Sport 7 NZ,https://a1xs.vip/700037
-BeIN SPORTS XTRA (1080p) [Geo-blocked],https://amg01334-beinsportsllc-beinxtra-samsungau-eiyvc.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-BeIN SPORTS XTRA en Espanol (720p) [Geo-blocked],https://bein-esp-klowdtv.amagi.tv/playlist.m3u8
-ESPN 8: The Ocho,https://d3b6q2ou5kp8ke.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-vz67vw1bljinm/ESPNTheOcho.m3u8
+BeIN Sports XTRA (1080p),https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+beIN Sports XTRA en Espanol (1080p),https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 ESPN Deportes (360p),https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
+ESPN8 The Ocho (1080p),https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 F1 Channel (1080p) [Geo-blocked],https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 Fox Sports 2 (720p) [Not 24/7],https://tvpass.org/live/FoxSports2/hd
 Fox Sports en Espanol (720p),https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
@@ -127,6 +127,7 @@ TNT Sports 2 FHD,https://a1xs.vip/2000022
 TNT Sports 3 FHD,https://a1xs.vip/2000023
 TNT Sports 4 FHD,https://a1xs.vip/2000024
 BBC News Pashto (720p),https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
+FOX Sports (1080p),https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 Fox Sports (720p),https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 FOX Sports [Geo-blocked],https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 Red CCTV (480p),https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
@@ -143,7 +144,7 @@ Sky News Weather (720p),https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_
 CCTV世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
 CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
 CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
-CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
+雪辉TnT,https://goodiptv.club/douyu/8936207
