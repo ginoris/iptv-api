@@ -94,7 +94,7 @@ SKY Sport 4 NZ,https://a1xs.vip/700034
 SKY Sport 5 NZ,https://a1xs.vip/700035
 SKY Sport 6 NZ,https://a1xs.vip/700036
 SKY Sport 7 NZ,https://a1xs.vip/700037
-BeIN Sports XTRA (1080p),https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
+beIN SPORTS Xtra (1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 beIN Sports XTRA en Espanol (1080p),https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 ESPN Deportes (360p),https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 ESPN8 The Ocho (1080p),https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
@@ -127,6 +127,7 @@ TNT Sports 2 FHD,https://a1xs.vip/2000022
 TNT Sports 3 FHD,https://a1xs.vip/2000023
 TNT Sports 4 FHD,https://a1xs.vip/2000024
 BBC News Pashto (720p),https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
+beIN SPORTS Xtra en Español (1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 FOX Sports (1080p),https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
 Fox Sports (720p),https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
 FOX Sports [Geo-blocked],https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
@@ -141,9 +142,8 @@ SEC Network HD,https://a1xs.vip/40000015
 Spectrum Sportsnet FHD,https://a1xs.vip/4000006
 SportsNet NY FHD,https://a1xs.vip/40000045
 Sky News Weather (720p),https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-CCTV世界地理,http://hmfs.f3322.net:3388/hls/28/index.m3u8
 CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
-CCTV女性时尚,http://111.61.236.247:9081/hls/59/index.m3u8
+CCTV女性时尚,http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV文化精品,http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
