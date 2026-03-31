@@ -1,23 +1,4 @@
-Fox Sports 501 FHD,https://a1xs.vip/700001
-Fox Sports 502 FHD,https://a1xs.vip/700002
-Fox Sports 503 FHD,https://a1xs.vip/700003
-Fox Sports 504 FHD,https://a1xs.vip/700004
-Fox Sports 505 FHD,https://a1xs.vip/700005
-Fox Sports 506 FHD,https://a1xs.vip/700006
-Fox Sports 507 FHD,https://a1xs.vip/700007
-Sportsnet 360 FHD,https://a1xs.vip/6000014
-Sportsnet One FHD,https://a1xs.vip/6000012
-Sportsnet Ontario FHD,https://a1xs.vip/6000011
-Sportsnet World FHD,https://a1xs.vip/6000013
 TF1 HD (720p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/tf1hd/browser-dash/tf1hd.mpd
-Sky Sport PL NZ,https://a1xs.vip/700008
-DE: Sky Sport Bundesliga FHD,https://a1xs.vip/120002
-DE: Sky Sport Premier League FHD,https://a1xs.vip/120004
-DE: Sky Sport Top Event FHD,https://a1xs.vip/120003
-NL: Ziggo Sport 2 FHD,https://a1xs.vip/140002
-NL: Ziggo Sport 3 FHD,https://a1xs.vip/140003
-NL: Ziggo Sport 4 FHD,https://a1xs.vip/140004
-NL: Ziggo Sport FHD,https://a1xs.vip/140001
 F1TV,https://a1xs.vip/2000005
 F1TV,https://a1xs.vip/2000016
 CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
@@ -32,14 +13,11 @@ ESPN News,https://tvpass.org/live/ESPNews/sd
 ESPN U,https://tvpass.org/live/ESPNU/sd
 ESPN2,https://tvpass.org/live/ESPN2/sd
 Fox News,https://tvpass.org/live/FoxNewsChannel/sd
-Fox News,https://a1xs.vip/300011
 Fox Sports 1,https://tvpass.org/live/FoxSports1/sd
 Fox Sports 2,https://tvpass.org/live/FoxSports2/sd
 SNY Sportsnet New York Comcast,https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
 Spectrum SportsNet LA,https://tvpass.org/live/spectrum-sportsnet-la/sd
-Spectrum Sportsnet LA,https://a1xs.vip/400052
 Spectrum Sportsnet Lakers,https://tvpass.org/live/spectrum-sportsnet/sd
-Spectrum Sportsnet Lakers,https://a1xs.vip/400053
 Sportsnet (East),https://tvpass.org/live/sportsnet-east/sd
 Sportsnet 360,https://tvpass.org/live/sportsnet-360/sd
 Sportsnet One,https://tvpass.org/live/sportsnet-one/sd
@@ -47,20 +25,14 @@ Sportsnet Ontario,https://tvpass.org/live/sportsnet-ontario/sd
 Sportsnet Pacific,https://tvpass.org/live/sportsnet-pacific/sd
 Sportsnet Pittsburgh,https://tvpass.org/live/sportsnet-pittsburgh/sd
 Sportsnet West,https://tvpass.org/live/sportsnet-west/sd
-Sportsnet West,https://a1xs.vip/6000015
 TNT Eastern Feed,https://tvpass.org/live/TNTEast/sd
 TSN1,https://tvpass.org/live/tsn1/sd
-TSN1,https://a1xs.vip/6000001
 TSN2,https://tvpass.org/live/tsn2/sd
-TSN2,https://a1xs.vip/6000002
 TSN3,https://tvpass.org/live/tsn3/sd
-TSN3,https://a1xs.vip/6000003
 TSN4,https://tvpass.org/live/tsn4/sd
-TSN4,https://a1xs.vip/6000004
 TSN5,https://tvpass.org/live/tsn5/sd
-TSN5,https://a1xs.vip/6000005
 TF1 Series Films (1080p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
-ABC News,https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+ABC News (720p),https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 ABC News Live (1080p) [Geo-blocked],https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
 ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
 ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
@@ -87,62 +59,27 @@ Sky News Arabia Vertical (1080p),https://live-stream.skynewsarabia.com/c-vertica
 Sky News Extra 1 (540p),https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
 Sky News Extra 2 (540p) [Not 24/7],https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
 Sky News Extra 3 (1080p),https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
-SKY Sport 1 NZ,https://a1xs.vip/700031
-SKY Sport 2 NZ,https://a1xs.vip/700032
-SKY Sport 3 NZ,https://a1xs.vip/700033
-SKY Sport 4 NZ,https://a1xs.vip/700034
-SKY Sport 5 NZ,https://a1xs.vip/700035
-SKY Sport 6 NZ,https://a1xs.vip/700036
-SKY Sport 7 NZ,https://a1xs.vip/700037
 beIN SPORTS Xtra (1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 beIN Sports XTRA en Espanol (1080p),https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 ESPN Deportes (360p),https://e3.thetvapp.to/hls/espn-deportes/index.m3u8
 ESPN8 The Ocho (1080p),https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-F1 Channel,https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 F1 Channel (1080p) [Geo-blocked],https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
+F1 Channel (720p),https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 Fox Sports 2 (720p) [Not 24/7],https://tvpass.org/live/FoxSports2/hd
 Fox Sports en Espanol (720p),https://live-manifest.production-public.tubi.io/live/d906efca-1302-4e29-b0d9-9a1d7a305d69/playlist.m3u8
-TSN The Ocho,https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+TSN The Ocho (1080p),https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 TSN1 (1080p) [Not 24/7],https://tvpass.org/live/tsn1/hd
 TSN2 (1080p) [Not 24/7],https://tvpass.org/live/tsn2/hd
 TSN3 (1080p) [Not 24/7],https://tvpass.org/live/tsn3/hd
 TSN4 (720p) [Not 24/7],https://tvpass.org/live/tsn4/hd
 TSN5 (1080p) [Not 24/7],https://tvpass.org/live/tsn5/hd
-UK: Sky Sports Main Event UHD,https://a1xs.vip/2000015
-UK: TNT Sports Ultimate UHD,https://a1xs.vip/2000031
-BBC News FHD,https://a1xs.vip/1000015
-Sky News FHD,https://a1xs.vip/1000018
-Sky Sports Action FHD,https://a1xs.vip/2000011
-Sky Sports Cricket FHD,https://a1xs.vip/2000006
-Sky Sports Football FHD,https://a1xs.vip/2000003
-Sky Sports Golf FHD,https://a1xs.vip/2000009
-Sky Sports Main Event FHD,https://a1xs.vip/2000001
-Sky Sports Mix FHD,https://a1xs.vip/2000008
-Sky Sports News FHD,https://a1xs.vip/2000004
-Sky Sports Premier League FHD,https://a1xs.vip/2000002
-Sky Sports Racing FHD,https://a1xs.vip/2000010
-Sky Sports Tennis FHD,https://a1xs.vip/2000013
-Sky Sports+ FHD,https://a1xs.vip/2000012
-TNT Sports 1 FHD,https://a1xs.vip/2000021
-TNT Sports 2 FHD,https://a1xs.vip/2000022
-TNT Sports 3 FHD,https://a1xs.vip/2000023
-TNT Sports 4 FHD,https://a1xs.vip/2000024
 BBC News Pashto (720p),https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
 beIN SPORTS Xtra en Español (1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-FOX Sports,https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 FOX Sports (1080p),https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
+FOX Sports (1080p) [Geo-blocked],https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
+FOX Sports (720p),https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 Fox Sports (720p),https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
-FOX Sports [Geo-blocked],https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 Red CCTV (480p),https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
-ABC News Live,https://a1xs.vip/300016
-TNT FHD,https://a1xs.vip/300001
-ESPN HD,https://a1xs.vip/40000011
-ESPN News HD,https://a1xs.vip/40000014
-ESPN2 HD,https://a1xs.vip/40000012
-ESPNU HD,https://a1xs.vip/40000013
-SEC Network HD,https://a1xs.vip/40000015
-Spectrum Sportsnet FHD,https://a1xs.vip/4000006
-SportsNet NY FHD,https://a1xs.vip/40000045
 Sky News Weather (720p),https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 CCTV世界地理,http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
@@ -151,4 +88,3 @@ CCTV怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 CCTV文化精品,http://107.150.60.122/live/ysjp.m3u8
 CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
-雪辉TnT,https://goodiptv.club/douyu/8936207
