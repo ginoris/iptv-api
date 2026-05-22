@@ -41,7 +41,6 @@ BBC Two HD (1080p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/bbc2/b
 BBC Two Northern Ireland (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 BBC Two Northern Ireland HD (1080p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_mse_v0_hevc.mpd
 BBC Two Wales (1080p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_mse_v0_hevc.mpd
-CCTV-4 America (1080p),https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 F10 HD [Geo-blocked],https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
@@ -66,7 +65,7 @@ SBS TBC (540p) [Geo-blocked] [Not 24/7],http://203.251.91.122:1935/on-air-Backup
 SBS UBC (540p) [Not 24/7],https://stream.ubc.co.kr/hls/ubctvstream/index.m3u8
 TNTV (1080p),https://tntv-samsung-fr.amagi.tv/playlist.m3u8
 UniTV (720p),https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
-VillaAltagracia TV,https://inliveserver.com:1936/10016/10016/playlist.m3u8
+Villa Altagracia TV (1080p) [Not 24/7],https://stream.inliveserver.com:19360/8004/8004.m3u8
 Zaracay TV (1080p) [Not 24/7],https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 TNT Kids (288p),https://restreamer1.tnt.ba/hls/tntkids.m3u8
 BBC News North America HD,https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
@@ -158,7 +157,6 @@ F1 Channel (720p),https://jmp2.uk/plu-65c69ee3d77d450008c80438.m3u8
 FanDuel Racing,https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 Fox Sports 1 (1280p),https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 Fox Sports 2 (720p) [Not 24/7],https://tvpass.org/live/FoxSports2/hd
-Fox Sports 3 Latin America (1080p),http://201.217.246.42:44310/Live/b10474c9b1ba4a0986b574d1211c065b/local-92.playlist.m3u8
 RACER International (1080p),https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8
 Racer Network (1080p),https://amg00378-mavtv-amg00378c2-samsung-au-1790.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-samsungau/playlist.m3u8
 Racer Select (1080p),https://amg00378-amg00378c4-freelivesports-emea-5637.playouts.now.amagi.tv/playlist.m3u8
@@ -179,7 +177,6 @@ Equidia Racing Mag (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/
 FloRacing 24/7 (1080p),https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8
 FloRacing 24/7 (1080p),https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 FOX Sports (1080p),https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports.m3u8
-Fox Sports (1080p),#EXTVLCOPT:http-referrer=https://foxsports.com.ar/
 FOX Sports (1080p) [Geo-blocked],https://amg02855-foxsports-amg02855c1-xumo-us-1755.playouts.now.amagi.tv/Fox-Sports-AmazonNews/playlist.m3u8
 FOX Sports (720p),https://jmp2.uk/plu-5a74b8e1e22a61737979c6bf.m3u8
 Fox Sports (720p),https://live-manifest.production-public.tubi.io/live/6035c7fd-efff-4ec7-93dc-aa0c7a58ba47/playlist.m3u8
@@ -207,7 +204,6 @@ Trace UK (1080p),https://d2l4tng0wskzvn.cloudfront.net/Trace_GB.m3u8
 TRACE UK (720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 WSBS-DT1 (1080p),https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 Sky News Weather (720p),https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
 CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
