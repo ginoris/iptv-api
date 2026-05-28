@@ -1,5 +1,8 @@
+CCTV-Nostalgia Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 AsiriTV (720p) [Not 24/7],https://video2.lhdserver.es/asiritv/live.m3u8
 Ciracu TV (720p) [Not 24/7],https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
+CCTV-Weapon & Technology (1080p),http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+CCTV-World Geography (1080p),http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 UniTV Porto Alegre (480p),http://unitvaovivo.ufrgs.br:8080/live.ogg
 Carac 1 (1080p),https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
 Carac 2 (1080p),https://onefmhd.vedge.infomaniak.com/livecast/ik:onefmhd/manifest.m3u8
@@ -68,6 +71,8 @@ UniTV (720p),https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
 Villa Altagracia TV (1080p) [Not 24/7],https://stream.inliveserver.com:19360/8004/8004.m3u8
 Zaracay TV (1080p) [Not 24/7],https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 TNT Kids (288p),https://restreamer1.tnt.ba/hls/tntkids.m3u8
+CCTV-Health (1080p),http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
+CCTV-Women's Fashion (1080p),http://38.75.136.137:98/gslb/dsdqpub/nxss.m3u8?auth=testpub
 BBC News North America HD,https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
 ESPN,https://tvpass.org/live/ESPN/sd
 ESPN Deportes,https://tvpass.org/live/espn-deportes/sd
@@ -93,7 +98,10 @@ TSN2,https://tvpass.org/live/tsn2/sd
 TSN3,https://tvpass.org/live/tsn3/sd
 TSN4,https://tvpass.org/live/tsn4/sd
 TSN5,https://tvpass.org/live/tsn5/sd
+CCTV-Storm Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyjc.m3u8?auth=testpub
+CCTV-The First Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/dyjc.m3u8?auth=testpub
 TF1 Series Films (1080p) [Geo-Blocked],https://viamotionhsi.netplus.ch/live/eds/hd1/browser-HLS8/hd1.m3u8
+CCTV-Storm Music (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyyy.m3u8?auth=testpub
 iTV Afrobeats Music,https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
 iTV Arabic Music,https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8
 iTV Indian Music,https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8
@@ -150,6 +158,9 @@ WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7],https://67acccf130420.stre
 The Amazing Race,https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
 beIN SPORTS Xtra (1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 beIN Sports XTRA en Espanol (1080p),https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
+CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
+CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=testpub
+CCTV-Storm Football (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 ESPN Deportes (360p),http://Tdo@origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 ESPN8 The Ocho (1080p),https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
 F1 Channel (1080p) [Geo-blocked],https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
@@ -173,6 +184,7 @@ TSN5 (1080p) [Not 24/7],https://tvpass.org/live/tsn5/hd
 BBC News Pashto (720p),https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
 beIN SPORTS Xtra en Español (1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 CCTV-8K (1080p),http://198.204.240.250:82/live/cctv8k.m3u8
+CCTV-Culture of Quality (1080p),http://38.75.136.137:98/gslb/dsdqpub/ysjp.m3u8?auth=testpub
 Equidia Racing Mag (1080p),https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/equidia/racingmag.m3u8
 FloRacing 24/7 (1080p),https://amg02278-amg02278c1-distrotv-us-7534.playouts.now.amagi.tv/playlist/amg02278-flosports-floracing24x7-distrotvus/playlist.m3u8
 FloRacing 24/7 (1080p),https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
