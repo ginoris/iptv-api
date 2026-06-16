@@ -12,7 +12,6 @@ ITV Life (2160p),https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8
 MiTV (720p),https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 Pluto TV Conspiracy,https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 SBS6 Classics (1080p) [Geo-blocked],https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
-TF1 (720p),https://test.946985.filegear-sg.me/proxy/71eb898aa398f1b9
 ITV Deportes (720p),https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 BBC One (720p),https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
 BBC One Channel Islands (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd
@@ -36,7 +35,7 @@ BBC One West (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=
 BBC One West Midlands (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd
 BBC One Yorks (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
 BBC One Yorkshire & Lincolnshire (1080p),http://92.114.85.72:8000/play/a0mp
-BBC Two (1080p) [Geo-blocked],https://rdmedia.api.bbc.co.uk/ll-trial/mpd/bbc_two_england/manifest.mpd
+BBC Two,https://x.canlitvapp.com/u-bbc2/index.m3u8
 BBC Two HD (720p),https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
 BBC Two Northern Ireland (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 BBC Two Northern Ireland HD (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
@@ -96,7 +95,6 @@ ABC News Live 5 (720p),https://abcnews-streams.akamaized.net/hls/live/2023564/ab
 ABC News Live 6 (720p),https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8
 ABC News Live 7 (720p),https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8
 ABC News Live 8 (720p),https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8
-ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master_4000.m3u8
 BBC News (1080p) (HEVC) (1080p),https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 BBC News Europe (1080p),http://103.213.31.109:90/BBCNewsHD/playlist.m3u8
 BBC News North America (1080p),http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
@@ -128,6 +126,7 @@ Radio Sublime Gracia TV (720p),https://5f700d5b2c46f.streamlock.net/sublime/subl
 WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7],https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 Le miracle de l'amour,https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
 The Amazing Race,https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
+Arryadia HD TNT (1080p),https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
 beIN SPORTS XTRA (1080p),https://bein-xtra-bein.amagi.tv/playlist.m3u8
 beIN Sports XTRA en Espanol (1080p),https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
