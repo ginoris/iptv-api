@@ -1,7 +1,9 @@
+Zuraca TV (720p),https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
 CCTV-Nostalgia Theater (1080p),http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 AsiriTV (720p) [Not 24/7],https://video2.lhdserver.es/asiritv/live.m3u8
 Ciracu TV (720p) [Not 24/7],https://cloud37.ecuatel.com/ciracutv/live/manifest.m3u8
 CCTV-Weapon & Technology (1080p),http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
+Pluto TV Conspiracy,https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 CCTV-World Geography (1080p),http://38.75.136.137:98/gslb/dsdqpub/sjdl.m3u8?auth=testpub
 UniTV Porto Alegre (480p),http://unitvaovivo.ufrgs.br:8080/live.ogg
 Carac 1 (1080p),https://edge13.vedge.infomaniak.com/livecast/ik:event/manifest.m3u8
@@ -10,7 +12,6 @@ Carac 3 (1080p),https://lfmhd.vedge.infomaniak.com/livecast/lfmhd/playlist.m3u8
 Carac 4 (1080p),https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
 ITV Life (2160p),https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8
 MiTV (720p),https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
-Pluto TV Conspiracy,https://jmp2.uk/plu-5d4ae94ef1a1bbb350ca41bb.m3u8
 SBS6 Classics (1080p) [Geo-blocked],https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
 ITV Deportes (720p),https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 BBC One (720p),https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
@@ -40,6 +41,8 @@ BBC Two HD (720p),https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb
 BBC Two Northern Ireland (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 BBC Two Northern Ireland HD (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
 BBC Two Wales (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
+Caracol TV (1080p),http://138.121.15.230:9002/CARACOL/index.m3u8
+Caracola TV,https://wifispeed.trapemn.tv:1936/comunales/caracola-tv/chunks.m3u8
 CCTV-4 Europe,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 CCTV-4K (1080p),http://198.204.240.250:82/live/cctv4k.m3u8
 F10 HD [Geo-blocked],https://tv2.bitstreaming.net:3235/multi_live/play.m3u8
@@ -86,21 +89,22 @@ Trace Urban (Australia) (1080p),https://lightning-traceurban-samsungau.amagi.tv/
 Trace Gospel (1080p),https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
 ABC News (720p),https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 ABC News Live (1080p) [Geo-blocked],https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
-ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master_4000.m3u8
-ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master_4000.m3u8
-ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master_4000.m3u8
-ABC News Live 3 (720p),https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master_4000.m3u8
-ABC News Live 4 (720p),https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master_4000.m3u8
-ABC News Live 5 (720p),https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master_4000.m3u8
-ABC News Live 6 (720p),https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master_4000.m3u8
-ABC News Live 7 (720p),https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master_4000.m3u8
-ABC News Live 8 (720p),https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master_4000.m3u8
+ABC News Live 1 (720p),https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+ABC News Live 10 (720p),https://abcnews-streams.akamaized.net/hls/live/2023569/abcnewshudson10/master.m3u8
+ABC News Live 2 (720p),https://abcnews-streams.akamaized.net/hls/live/2023561/abcnewshudson2/master.m3u8
+ABC News Live 3 (720p),https://abcnews-streams.akamaized.net/hls/live/2023562/abcnewshudson3/master.m3u8
+ABC News Live 4 (720p),https://abcnews-streams.akamaized.net/hls/live/2023563/abcnewshudson4/master.m3u8
+ABC News Live 5 (720p),https://abcnews-streams.akamaized.net/hls/live/2023564/abcnewshudson5/master.m3u8
+ABC News Live 6 (720p),https://abcnews-streams.akamaized.net/hls/live/2023565/abcnewshudson6/master.m3u8
+ABC News Live 7 (720p),https://abcnews-streams.akamaized.net/hls/live/2023566/abcnewshudson7/master.m3u8
+ABC News Live 8 (720p),https://abcnews-streams.akamaized.net/hls/live/2023567/abcnewshudson8/master.m3u8
+ABC News Live 9 (720p),https://abcnews-streams.akamaized.net/hls/live/2023568/abcnewshudson9/master.m3u8
 BBC News (1080p) (HEVC) (1080p),https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/hevc_iptv_mse_v0.mpd
 BBC News Europe (1080p),http://103.213.31.109:90/BBCNewsHD/playlist.m3u8
 BBC News North America (1080p),http://23.237.104.106:8080/USA_BBC_NEWS/index.m3u8
 CCTV+ 1 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 CCTV+ 2 (600p) [Not 24/7],https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-Fox News Channel (480p),http://41.205.93.154/FOX-NEWS/index.m3u8
+Fox News Channel (720p),http://138.121.15.230:9002/FOX-NEWS/index.m3u8
 Fox News Radio (720p),https://radiovid.foxnews.com/hls/live/661547/RADIOVID/index.m3u8
 Miracle TV (1080p),https://live.miracleonline.org/hls/miracle1.m3u8
 SABC News (720p) [Geo-blocked],https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
@@ -123,10 +127,12 @@ Miracle TV (480p),https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_030/S
 Miracle TV+ (720p),https://strhlslb01.streamakaci.tv/str_mtv_mtv/str_mtv_multi/playlist.m3u8
 More Grace TV (410p) [Not 24/7],https://atechgroupuk.site/ETV.m3u8
 Radio Sublime Gracia TV (720p),https://5f700d5b2c46f.streamlock.net/sublime/sublime/playlist.m3u8
+TVGracia,https://vs20.live.opencaster.com/diego_57244803/index.m3u8
 WDWL-DT1 (Teleadoración/Enlace PR) (720p) [Not 24/7],https://67acccf130420.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8
 Le miracle de l'amour,https://jmp2.uk/plu-60549c238c3f21000753d3e0.m3u8
 The Amazing Race,https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
 Arryadia HD TNT (1080p),https://stream-lb.livemediama.com/arryadia-tnt/hls/master.m3u8
+beIN Sports USA (720p),http://23.237.104.106:8080/USA_BEIN/index.m3u8
 beIN SPORTS XTRA (1080p),https://bein-xtra-bein.amagi.tv/playlist.m3u8
 beIN Sports XTRA en Espanol (1080p),https://dc1644a9jazgj.cloudfront.net/beIN_Sports_Xtra_Espanol.m3u8
 CCTV-Billiards (1080p),http://38.75.136.137:98/gslb/dsdqpub/ystq.m3u8?auth=testpub
@@ -146,6 +152,9 @@ Sky Racing 1 (720p),https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStr
 Sky Racing 2 (720p),https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
 Trace Sport Stars (Australia) (1080p),https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 TSN The Ocho (1080p),https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
+Ziggo Sport,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+Ziggo Sport 2,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+Ziggo Sport 3,#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 BBC News Pashto (720p),https://vs-cmaf-pushb-ww.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/pc_hd_abr_v2.mpd
 beIN SPORTS Xtra en Español (1080p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 CCTV-8K (1080p),http://192.151.150.154/live/cctv8k.m3u8
@@ -171,6 +180,7 @@ Race Central TV (720p) [Not 24/7],https://nrpus.bozztv.com/36bay2/gusa-racecentr
 RACER Brasil (720p),https://jmp2.uk/plu-65a6818c7bdc8d0008457b21.m3u8
 Rachael Ray Presents (1080p),https://dhy1wwavvr8nc.cloudfront.net/Rachel_Ray_Presents.m3u8
 Red CCTV (480p),https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+RTS Poletarac (576p),https://de1.dstv.cx/RTSPoletarac/index.m3u8
 Sulle tracce del crimine,https://jmp2.uk/plu-66d9a98961dbf00008efb5fc.m3u8
 The Raccoons,https://jmp2.uk/plu-69b422590306b277746f48cb.m3u8
 TRACE UK (1080p),https://amg01131-tracetv-amg01131c5-stirr-us-4389.playouts.now.amagi.tv/playlist.m3u8
@@ -180,6 +190,6 @@ Will&Grace (720p),https://jmp2.uk/plu-697a0577f9c3aa5a215a4ef8.m3u8
 WSBS-DT1 (1080p),https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
 Sky News Weather (720p),https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 CCTV4K,http://vip1.xinketongxun.fun:8082/tsfile/live/1026_1.m3u8
-CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
+CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 CCTV第一剧场,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
 CCTV风云足球,https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8
