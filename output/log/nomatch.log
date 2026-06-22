@@ -14,30 +14,32 @@ ITV Life (2160p),https://ca1.buximedia.com/itv/life/tracks-v1a1/mono.m3u8
 MiTV (720p),https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8
 SBS6 Classics (1080p) [Geo-blocked],https://sbs6classic.prd1.talpatvcdn.nl/v1/master/8ada1ed2ae3b9c3db6fc5e604cfa78fc7d2d745e/sbs6classic_ssai/fea54560ba684701a2143f33a9cf4489/index.m3u8
 ITV Deportes (720p),https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-BBC One (720p),https://november.queazified.co.uk/ee971134-115e-4418-8d1d-69dff7d4c6eb.m3u8
+BBC One (1080p),http://149.102.245.111/1196/index.m3u8
 BBC One Channel Islands (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_channel_islands/pc_hd_abr_v2.mpd
 BBC One East (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east/pc_hd_abr_v2.mpd
-BBC One East (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_yorkshire/pc_hd_abr_v2.mpd
+BBC One East Midlands (1080p),http://149.102.245.111/1263/index.m3u8
 BBC One East Midlands (1080p) (HEVC) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/hevc_iptv_mse_v0.mpd
-BBC One East Midlands (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_east_midlands/pc_hd_abr_v2.mpd
+BBC One London HD (720p),http://193.46.58.239:8080/BBCOneHD/index.m3u8
 BBC One North East (1080p) (HEVC) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/hevc_iptv_mse_v0.mpd
 BBC One North East (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_east/pc_hd_abr_v2.mpd
+BBC One North West (1080p),http://149.102.245.111/916/index.m3u8
 BBC One North West (1080p) (HEVC) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/hevc_iptv_mse_v0.mpd
-BBC One North West (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_north_west/pc_hd_abr_v2.mpd
 BBC One Northern Ireland HD (1080p) (HEVC) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/hevc_iptv_mse_v0.mpd
 BBC One Northern Ireland HD (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/pc_hd_abr_v2.mpd
 BBC One Scotland (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.m3u8
-BBC One Scotland HD (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_scotland_hd/pc_hd_abr_v2.mpd
+BBC One Scotland HD (1080p),http://149.102.245.111/225/index.m3u8
 BBC One South (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south/pc_hd_abr_v2.mpd
 BBC One South East (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_east/pc_hd_abr_v2.mpd
-BBC One South West (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_south_west/pc_hd_abr_v2.mpd
+BBC One South West (1080p),http://149.102.245.111/51/index.m3u8
 BBC One Wales (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_wales_hd/pc_hd_abr_v2.mpd
-BBC One West (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west/pc_hd_abr_v2.mpd
-BBC One West Midlands (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_west_midlands/pc_hd_abr_v2.mpd
+BBC One Wales HD (1080p),http://149.102.245.111/927/index.m3u8
+BBC One West (1080p),http://149.102.245.111/305/index.m3u8
+BBC One West Midlands (1080p),http://149.102.245.111/1261/index.m3u8
 BBC One Yorks (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_one_yorks/pc_hd_abr_v2.mpd
 BBC One Yorkshire & Lincolnshire (1080p),http://92.114.85.72:8000/play/a0mp
+BBC One Yorkshire HD (1080p),http://149.102.245.111/918/index.m3u8
 BBC Two,https://x.canlitvapp.com/u-bbc2/index.m3u8
-BBC Two HD (720p),https://streamer.nexyl.uk/69ef899e-8ca9-4537-9f1a-fe8b4216afbb.m3u8
+BBC Two HD (1080p),http://149.102.245.111/1197/index.m3u8
 BBC Two Northern Ireland (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/pc_hd_abr_v2.m3u8
 BBC Two Northern Ireland HD (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/iptv_hd_abr_v1.mpd
 BBC Two Wales (720p) [Geo-blocked],https://vs-cmaf-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_wales_digital/iptv_hd_abr_v1.mpd
@@ -81,11 +83,23 @@ iTV Latin Music,https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
 ITV Persian Music (1080p),https://ca1.buximedia.com/itv/persian/tracks-v1a1/mono.m3u8
 iTV Turkish Music,https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
 iTV Urban Music,https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
+Trace Africa,https://channels.trace.plus/Traceprod/AFRICA_FR_hd/index.m3u8
+Trace Afrikora,https://channels.trace.plus/Traceprod/TERANGA_hd/index.m3u8
+Trace Ayiti,https://channels.trace.plus/Traceprod/AYITI_hd/index.m3u8
 Trace Brasil (1080p),https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracebrazuca-samsungbr/playlist.m3u8
 TRACE Brazuca (1080p),https://amg01131-tracetv-amg01131c4-stirr-us-4390.playouts.now.amagi.tv/playlist.m3u8
+Trace Caribbean,https://channels.trace.plus/Traceprod/CARIBBEAN_hd/index.m3u8
+Trace Jama,https://channels.trace.plus/Traceprod/JAMA_ld/index.m3u8
+Trace Kitoko,https://channels.trace.plus/Traceprod/KITOKO_hd/index.m3u8
 Trace Latina (1080p),https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist.m3u8
 TRACE Latina (720p),#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+Trace Mboa,https://channels.trace.plus/Traceprod/MBOA_hd/index.m3u8
+Trace Muzika,https://channels.trace.plus/Traceprod/MUZIKA_hd/index.m3u8
+Trace Mziki,https://channels.trace.plus/Traceprod/MZIKI_hd/index.m3u8
+Trace Naija,https://channels.trace.plus/Traceprod/NAIJA_hd/index.m3u8
+Trace Toca,https://channels.trace.plus/Traceprod/TOCA_hd/index.m3u8
 Trace Urban (Australia) (1080p),https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+Trace Vanilla Islands,https://channels.trace.plus/Traceprod/VANILLA_hd/index.m3u8
 Trace Gospel (1080p),https://channels.trace.plus/Traceprod/GOSPEL_FR/.m3u8
 ABC News (720p),https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 ABC News Live (1080p) [Geo-blocked],https://pb-0n3n2ej0w8pl9.akamaized.net/ABCNewsLive_Disney.m3u8
@@ -140,6 +154,7 @@ CCTV-Golf & Tennis (1080p),http://38.75.136.137:98/gslb/dsdqpub/gefwq.m3u8?auth=
 CCTV-Storm Football (1080p),http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 ESPN Deportes (360p),http://origin.thetvapp.to/hls/espn-deportes/mono.m3u8
 ESPN8 The Ocho (1080p),https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+ESPNU (720p),http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 F1 Channel (1080p) [Geo-blocked],https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8
 FanDuel Racing,https://d3ehq1uaxory6w.cloudfront.net/out/v1/35c05f080f4e49a4b4eb031b5a14e505/TVG2index_2.m3u8
 Fox Sports 1 (1280p),https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
