@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-28 20:17:21,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+2026-07-31 20:15:09,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
 
 📺央视频道,#genre#
 CCTV-4,https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
@@ -32,3 +32,4 @@ CETV-2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8
 广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8
 广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8
 广东体育,https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8
+广东体育,http://r.jdshipin.com/LiYdg
